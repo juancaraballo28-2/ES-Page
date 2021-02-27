@@ -9775,7 +9775,7 @@ button.bg-dark:focus {
 }
 
 .text-primary {
-  color: #f4623a !important;
+  color: #003399 !important;
 }
 
 a.text-primary:hover, a.text-primary:focus {
@@ -10043,7 +10043,7 @@ hr.light {
     color :#004466;
   }
   #mainNav .navbar-brand:hover {
-    color: #fff;
+    /*color: #fff;*/
   }
   #mainNav .navbar-nav .nav-item .nav-link {
     /*color: rgba(255, 255, 255, 0.7);*/
@@ -10051,7 +10051,7 @@ hr.light {
     padding: 0 1rem;
   }
   #mainNav .navbar-nav .nav-item .nav-link:hover {
-    color: #fff;
+   /* color: #fff;*/
   }
   #mainNav .navbar-nav .nav-item:last-child .nav-link {
     padding-right: 0;
@@ -10064,7 +10064,7 @@ hr.light {
     color: #212529;
   }
   #mainNav.navbar-scrolled .navbar-brand:hover {
-    color: #f4623a;
+    color: #003399;
   }
   #mainNav.navbar-scrolled .navbar-nav .nav-item .nav-link {
     color: #212529;
@@ -10126,7 +10126,8 @@ header.masthead h1 {
   text-align: center;
   opacity: 0;
   color: #fff;
-  background: rgba(244, 98, 58, 0.9);
+ /* background: rgba(244, 98, 58, 0.9);*/
+  background:  #003399;
   transition: opacity 0.25s ease;
   text-align: center;
 }
