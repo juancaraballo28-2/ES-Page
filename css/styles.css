@@ -10147,8 +10147,8 @@ header.masthead h1 {
   text-align: center;
   opacity: 0;
   color: #fff;
- /* background: rgba(244, 98, 58, 0.9);*/
-  background:  #003399;
+  background: rgba(68, 96, 219, 0.9);
+  /*background:  #003399;*/
   transition: opacity 0.25s ease;
   text-align: center;
 }
