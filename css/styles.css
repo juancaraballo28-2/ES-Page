@@ -88,7 +88,7 @@ body {
   font-weight: 400;
   line-height: 1.5;
   color: #212529;
-  text-align: left;
+  text-align: center;
   background-color: #fff;
 }
 
@@ -7924,7 +7924,7 @@ button.bg-dark:focus {
 
 .ml-auto,
 .mx-auto {
-  margin-left: auto !important;
+  margin-left: auto !important; /*cambio cuando se agrego icono*/
 }
 
 @media (min-width: 576px) {
